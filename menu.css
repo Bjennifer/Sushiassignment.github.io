@@ -1,0 +1,204 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.box{
+    box-sizing: border-box;
+    position: absolute;
+    width: 132px;
+    height: 852px;
+    left: 57px;
+    top: 43px;
+    background: #0C0B0B;
+    border-radius: 24px; 
+      
+}
+.head{
+    position: absolute;
+    width: 306px;
+    height: 63px;
+    left: 243px;
+    top: 58px;
+}
+.headline{
+    position: absolute;
+    width: 306px;
+    height: 5px;
+    left: 243px;
+    top: 106px;
+}
+.s{
+    position: absolute;
+    width: 51px;
+    height: 110px;
+    left: 50px;
+    top: 30px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 102px;
+}
+.house{
+    box-sizing: border-box;
+    position: absolute;
+    left: 32%;
+    right: 90.35%;
+    top: 23%;
+    bottom: 10px;
+    background: #FFFFFF;
+}
+.rectangle{
+    position: absolute;
+    width: 134px;
+    height: 100px;
+    left: 0px;
+    top: 302px;
+}
+.p{
+    position: absolute;
+    left: 36%;
+    right: 90.35%;
+    top: 34.3%;
+    bottom: 61.7%;
+    background: #c9c7c7; 
+    size: 1px;
+}
+.car{
+    position: absolute;
+    left: 32%;
+    right: 90.72%;
+    top: 57%;
+}
+.location{
+    position: absolute;
+    left:32%;
+    right: 90.9%;
+    top: 74%;
+    bottom: 55%;
+    background: #DADADA;
+}
+.cutlery{
+    box-sizing: border-box;
+    position: absolute;
+    left: 32%;
+    right: 70%;
+    top: 90%;
+    bottom: 27%;
+    background: #FFFFFF;
+}
+.food1{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 243px;
+    top: 154px;
+    border-radius: 2px;
+
+}
+.one{
+    position: absolute;
+    left: 50px;
+
+}
+.food2{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 533px;
+    top: 154px;
+    }
+    .two{
+        position: absolute;
+        left: 50px;
+    
+    }
+.food3{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 823px;
+    top: 154px;
+}
+.three{
+    position: absolute;
+    left: 50px;
+
+}
+.food4{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 1113px;
+    top: 155px;
+}
+.four{
+    position: absolute;
+    left: 50px;
+
+}
+.food5{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 244px;
+    top: 498px;
+}
+.five{
+    position: absolute;
+    left: 50px;
+
+}
+.food6{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 534px;
+    top: 498px;
+}
+.six{
+    position: absolute;
+    left: 50px;
+
+}
+.food7{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 824px;
+    top: 498px;
+
+}
+.seven{
+    position: absolute;
+    left: 50px;
+
+}
+.food8{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 1114px;
+    top: 499px;
+    }
+.eight{
+    position: absolute;
+    left: 50px;
+    
+}
+.load{
+    position: absolute;
+    width: 150px;
+    height: 45px;
+    left: 676px;
+    top: 841px;
+    background: #000000;
+}
+.open{
+    color: #FFFFFF;
+}
+.copyright{
+    position: absolute;
+    width: 250px;
+    height: 19px;
+    left: 244px;
+    top: 900px;
+}

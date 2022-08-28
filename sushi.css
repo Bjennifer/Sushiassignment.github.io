@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.backgroundimg{
+    position: absolute;
+    width: 1440px;
+    height: 1000px;
+    left: 0px;
+    top: 0px; 
+}
+
+.sushiz{
+    position: absolute;
+    width: 830px;
+    height: 75px;
+    left: 309px;
+    top: 288px;
+    color: white;
+    font-size: 60px;
+   
+}
+
+.sisti{
+    position: absolute;
+    width: 822px;
+    height: 62px;
+    left: 309px;
+    top: 412px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.menu{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left:550px;
+    top: 548px
+     
+}
+.cart{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left:700px;
+    top: 548px;
+   
+  
+}
